@@ -1,0 +1,6 @@
+client
+*.o
+CMakeLists.txt
+cmake-build-debug
+myftp
+test_ftp
